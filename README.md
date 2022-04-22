@@ -22,16 +22,6 @@
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/tonton-pixel/color-ramp-formulator/blob/master/icons/icon-256.png" width="96px" alt="Color Ramp Formulator icon"></td>
-    <td><strong>Color Ramp Formulator</strong></td>
-    <td>Algorithmically-defined color ramps generator, making use of formulas.</td>
-    <td>
-      •&nbsp;<a href="https://github.com/tonton-pixel/color-ramp-formulator">Repository</a>
-      <br>
-      •&nbsp;<a href="https://github.com/tonton-pixel/color-ramp-formulator/releases/latest">Latest&nbsp;Release</a>
-    </td>
-  </tr>
-<tr>
     <td><img src="https://github.com/tonton-pixel/tutti-quanti-shelf/blob/master/icons/icon-256.png" width="96px" alt="Tutti Quanti Shelf icon"></td>
     <td><strong>Tutti Quanti Shelf</strong></td>
     <td>Collection of miscellaneous developer-oriented utilities wrapped into one single app, built with Electron.</td>
@@ -49,6 +39,16 @@
       •&nbsp;<a href="https://github.com/tonton-pixel/vade-mecum-shelf">Repository</a>
       <br>
       •&nbsp;<a href="https://github.com/tonton-pixel/vade-mecum-shelf/releases/latest">Latest&nbsp;Release</a>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/tonton-pixel/color-ramp-formulator/blob/master/icons/icon-256.png" width="96px" alt="Color Ramp Formulator icon"></td>
+    <td><strong>Color Ramp Formulator</strong></td>
+    <td>Algorithmically-defined color ramps generator, making use of formulas.</td>
+    <td>
+      •&nbsp;<a href="https://github.com/tonton-pixel/color-ramp-formulator">Repository</a>
+      <br>
+      •&nbsp;<a href="https://github.com/tonton-pixel/color-ramp-formulator/releases/latest">Latest&nbsp;Release</a>
     </td>
   </tr>
   </table>
