@@ -1,6 +1,6 @@
-## Popular Applications
+### Popular Applications
 
-### Unicopedia Plus
+#### Unicopedia Plus
 
 <table>
   <tr>
@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-### Unicopedia Sinica
+#### Unicopedia Sinica
 
 <table>
   <tr>
@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-### Color Ramp Formulator
+#### Color Ramp Formulator
 
 <table>
   <tr>
@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-### Tutti Quanti Shelf
+#### Tutti Quanti Shelf
 
 <table>
   <tr>
@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-### Vade Mecum Shelf
+#### Vade Mecum Shelf
 
 <table>
   <tr>
