@@ -1,3 +1,7 @@
+> No cell phone. No 2FA. Moving away...
+
+<!-- 
+
 ### Popular Applications
 
 <table>
@@ -53,3 +57,4 @@
   </tr>
   </table>
 
+ -->
