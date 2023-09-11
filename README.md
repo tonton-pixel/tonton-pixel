@@ -1,4 +1,6 @@
 > No cell phone. No 2FA. Moving away...
+>
+> [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)
 
 <!-- 
 
