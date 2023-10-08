@@ -1,6 +1,9 @@
 > No cell phone. No 2FA. Moving away...
->
-> [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/) -> Moved to [Codeberg](https://codeberg.org/tonton-pixel), hosted in Europe, based in Berlin, Germany.
+
+Moved to [Codeberg](https://codeberg.org/tonton-pixel), hosted in Europe, based in Berlin, Germany.
+
+- [Leaving Github](https://ploum.net/2023-02-22-leaving-github.html)
+- [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)
 
 ### Popular Applications
 
