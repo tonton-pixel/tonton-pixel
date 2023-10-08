@@ -60,4 +60,16 @@ Moved to [Codeberg](https://codeberg.org/tonton-pixel), hosted in Europe, based 
   </tr>
   </table>
 
+### Projects
+
+<table>
+  <tr>
+    <td><img src="https://codeberg.org/tonton-pixel/json-photoshop-scripting/media/branch/master/images/json-ps-128.png" width="96px" alt="JSON Photoshop Scripting icon"></td>
+    <td><strong>JSON Photoshop Scripting</strong></td>
+    <td>Alternative way of scripting Photoshop in JavaScript, based on JSON.</td>
+    <td>
+      •&nbsp;<a href="https://codeberg.org/tonton-pixel/json-photoshop-scripting">Repository</a>
+    </td>
+  </tr>
+</table>
 
