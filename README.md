@@ -2,6 +2,7 @@
 
 Moved to [Codeberg](https://codeberg.org/tonton-pixel), hosted in Europe, based in Berlin, Germany.
 
+- [Please don’t upload my code to GitHub](https://nogithub.codeberg.page/)
 - [Mandatory GitHub 2FA is a bad idea](https://github.com/orgs/community/discussions/63813)
 - [Leaving Github](https://ploum.net/2023-02-22-leaving-github.html)
 - [Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)
